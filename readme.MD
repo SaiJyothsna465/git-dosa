@@ -1,4 +1,5 @@
 # Dosa Shop
 
-#plain dosa
-    * dosa batter
+# plain dosa
+    dosa batter
+    light oil
