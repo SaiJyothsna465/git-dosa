@@ -7,3 +7,7 @@
 # karam dosa
     dosa batter
     erra karam
+
+# egg dosa
+    dosa batter
+    egg and karam
